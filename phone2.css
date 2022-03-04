@@ -1,0 +1,13 @@
+#navbar
+{
+    flex-direction: column;
+}
+
+.info
+{
+    width: 320px;
+}
+
+.img img{
+    width: 320px;
+}

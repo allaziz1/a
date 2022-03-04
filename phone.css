@@ -1,0 +1,17 @@
+
+
+#product img
+{
+    padding-left: 8px;
+    height: 313px;
+}
+
+.name
+{
+    margin-top: 19px;
+}
+
+#products
+{
+    flex-direction: column;
+}

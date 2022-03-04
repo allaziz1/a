@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color: black;
+}
+
+
+/* #navbar::before
+{
+    content: "";
+    background-color: black;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    /* opacity: 0.93; */
+
+#navbar
+{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+}
+
+
+/* #logo img
+{
+    height: 63px;
+    width: 73px;
+    border-radius: 73px;
+    margin: 2px;
+    margin-right: 54px;
+} */
+
+#logo h1
+{
+    color: white;
+    font-size: 3.3rem;    
+    padding-right: 7px;
+}
+
+#navbar ul
+{
+    list-style: none;
+    display: flex; 
+}
+
+#navbar li a
+{
+    color: white;
+    font-size: 2.1rem;
+    display: block;font-family: 'Hi Melody', cursive;
+    text-decoration: none;
+    padding: 12px;
+    text-shadow: black 3px 3px 3px;
+ }
+
+#navbar li a:hover
+{
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 3px;
+    background-color: gray;
+    border-radius: 17px;
+}
+
+#home::before
+{
+    content: "";
+    position: absolute;
+    background:url('/a/home\ new.jpg') no-repeat center center/cover;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.94;
+}
+
+#home
+{
+        height: 735px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+}
+
+
+.content h1 
+{
+    font-size: 3.3rem;
+    color: white;
+    text-shadow: rgb(0, 0, 0) 3px 4px 4px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.button
+{
+    height: 47px;
+    width: 152px;
+    font-size: 1.9rem;
+    margin-top: 12px;
+    border-radius: 23px;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    font-family: 'Indie Flower', cursive;
+}
+
+.button:hover
+{
+    background-color: gray;
+    color: black;
+}
+
+
+#products
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.content
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.info {
+      display: flex;
+      color: white;
+    align-items: center;
+    flex-direction: column;
+    margin: 23px;    
+    width: 280px;
+    font-family: cursive;
+}
+
+.name
+{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2.5rem;
+}
+
+.price
+{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.7rem;
+    color: rgb(132, 173, 169);
+}
+
+.head
+{
+    font-family: 'Indie Flower', cursive;
+    color: turquoise;
+    
+}
+
+/* footer */
+
+.footer
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 70px;
+     /* background-color: rgb(83, 80, 80); */
+    background-color: rgb(192, 181, 181);
+}
+
+#social
+{
+    margin-top: 14px;
+}
+
+#social ul
+{
+    display: flex;
+    justify-content: center;
+  list-style: none;
+}
+
+.content a
+{
+    text-decoration: none;
+    color:white;
+}
+
+#social li a
+{
+  text-decoration: none;
+  padding: 7px;
+    color: black;
+    font-size: 1.2rem;
+}
+
+#social li a:hover
+{
+  text-decoration: none;
+  padding: 7px;
+    color: white;
+    background-color: black;
+    border-radius: 17px;
+
+}
+
+.last
+{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.last li a
+{
+    text-decoration: none;
+    padding: 7px;
+    color: black;
+    font-size: 1.2rem;
+    
+}
+
+.last li a:hover
+{
+    text-decoration: none;
+    padding: 7px;
+    color: white;
+    background-color: black;
+    border-radius: 17px;
+}
+
+.last ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}

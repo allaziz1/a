@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#navbar li a
+{
+    font-size: 26px;
+ 
+}
+
+#almonds img
+{
+    height: 223px;
+}
+
+.info
+{
+    width: 250px;
+}
+
+.img img{
+    width: 250px;
+}
+
+#navbar
+{
+    padding-top: -10px;
+}

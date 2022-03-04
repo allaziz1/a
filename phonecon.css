@@ -1,0 +1,10 @@
+#contact
+{
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.info
+{
+    width: 420px;
+}
