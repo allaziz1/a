@@ -144,6 +144,7 @@ body
     margin: 23px;    
     width: 280px;
     font-family: cursive;
+    font-family: 'Hubballi', cursive;
 }
 
 .name
@@ -152,7 +153,7 @@ body
     text-align: center;
     margin-top: 5px;
     margin-bottom: 8px;
-font-family: 'Hubballi', cursive;
+font-family: 'Indie Flower', cursive;
     font-size: 2.5rem;
 }
 
@@ -162,6 +163,11 @@ font-family: 'Hubballi', cursive;
     font-family: 'Hubballi', cursive;
     font-size: 1.7rem;
     color: rgb(132, 173, 169);
+}
+
+.info p
+{
+        font-family: 'Hubballi', cursive;
 }
 
 .head
